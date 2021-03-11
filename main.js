@@ -6,7 +6,7 @@
  * @param {int} a
  * @param {int} b
  */
- function zobrazVysledek (a, b){
+ function ukazVysledek (a, b){
  document.querySelector("#vysledek").innerHTML = secti(4, 5);}
 
 function secti(a, b) {
